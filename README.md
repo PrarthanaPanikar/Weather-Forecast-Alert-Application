@@ -191,10 +191,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **Author**: Your Name
-- **Email**: your.email@example.com
-- **GitHub**: https://github.com/yourusername
-
----
-
-⭐ If this project helped you, please give it a star!
+- **Author**: Prarthana Sumesh Panikar
+- **Email**: prarthanapanikar@gmail.com
+- **GitHub**: [https://github.com/yourusername
+](https://github.com/PrarthanaPanikar/Weather-Forecast-Alert-Application.git)
